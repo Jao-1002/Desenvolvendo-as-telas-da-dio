@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "João",
+            "email": "oaopaulobjj@hotmail.com",
+            "senha": "1234"
+        },
+
+        {
+            "id": 1,
+            "name":  "Paulo",
+            "email": "paulobjj@hotmail.com",
+            "senha": "1234"
+        }
+    ]
+}
